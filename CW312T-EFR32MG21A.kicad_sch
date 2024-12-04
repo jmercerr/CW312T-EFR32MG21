@@ -5132,6 +5132,16 @@
 		)
 		(uuid "9d51d1b2-d082-42b7-93eb-a961d85e8eae")
 	)
+	(text "Confirm footprint for U1 \non datasheet inner pad dimensions are \nmin- 2.60 typ 2.70 and max -2.80 \nfootprint options for premade are 2.9 x 2.9 or 2.65 x 2.65\nshould i stick with one of these or make a new footprint\n"
+		(exclude_from_sim no)
+		(at 195.58 156.21 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "d98bb82d-0bfa-4888-a462-183430aa681d")
+	)
 	(label "RST"
 		(at 166.37 101.6 0)
 		(fields_autoplaced yes)
